@@ -1,7 +1,16 @@
 # CODTECH-Task1
-# Linear Regression on Housing Prices
+#
 
-## Introduction
+## Project Information
+
+- **Name**: Mruthyunjaya S
+- **Company**: CODTECH IT Solutions
+- **ID**: CT4ML4545
+- **Domain**: Machine Learning
+- **Duration**: July to August 2024
+
+## Project Overwiew
+**Project**: Linear Regression on Housing Prices
 
 This project demonstrates the implementation of a linear regression model to predict housing prices using the Boston Housing dataset. The dataset consists of various features that impact the housing prices in the Boston area, including socio-economic and physical characteristics of the houses and neighborhoods.
 
