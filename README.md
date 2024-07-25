@@ -1,5 +1,4 @@
 # CODTECH-Task1
-#
 
 ## Project Information
 
